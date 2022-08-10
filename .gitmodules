@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:useless-branch/eduSignalFW.git
+[submodule "doc"]
+	path = doc
+	url = git@github.com:useless-branch/eduSignalDoc.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:useless-branch/eduSignalHW.git
